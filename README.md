@@ -1,9 +1,7 @@
 # SOC-Architecture-and-Engineering-Personal-Project
 
 ## Introduction
-This is a personal project. My aim is to use limited resource such as zero to minimal cost of establish an SOC Project.
-The market is full of open-source tools that is very powerful to use specially for organization that is starting to establish 
-their SOC process.
+This project is of a personal nature, with the objective of implementing an SOC project using minimal resources, ranging from zero to minimal costs. The market offers a plethora of potent open-source tools, particularly beneficial for organizations initiating the establishment of their SOC processes.
 
 ## How to navigate this repository. 
 The structure of this repo revolve arround the below. (Note this is my first attempt on arhitecture side of things) 
@@ -11,7 +9,7 @@ The structure of this repo revolve arround the below. (Note this is my first att
 
 ### Folder Structure
 ```
-- root-folder
+root-folder
   |__ docs
   |   |__ imgs
   |   |   |__ image1.jpg
@@ -26,8 +24,8 @@ The structure of this repo revolve arround the below. (Note this is my first att
   |__ siem
   |__ src
       |__ lambda-functions
+      |  |__ aws-terraform-architecture
       |__ powershell_scripts
-      
-  |__ other_directories_and_files
+
 
 ```
