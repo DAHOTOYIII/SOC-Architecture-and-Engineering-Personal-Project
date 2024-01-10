@@ -7,7 +7,7 @@ their SOC process.
 
 ## How to navigate this repository. 
 The structure of this repo revolve arround the below. (Note this is my first attempt on arhitecture side of things) 
-![Alt Text](./imgs/docs/main-architecture.png)
+![Alt Text](./docs/imgs/main-architecture.png)
 
 ### Folder Structure
 ```
